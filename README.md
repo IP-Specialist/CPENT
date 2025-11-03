@@ -3,7 +3,7 @@
 # Certified Penetration Testing Professional (CPENT) – Study Resources & Labs
 
 **Introduction**
-Welcome to the Certified Penetration Testing Professional (CPENT) repository — a comprehensive resource hub designed for cybersecurity professionals, ethical hackers, and penetration testers preparing for the CPENT certification. This repository provides a structured and practical approach to mastering advanced penetration testing concepts through detailed study materials, hands-on labs, scenario-based challenges, and curated references aligned with the official CPENT exam blueprint.
+Welcome to the Certified Penetration Testing Professional (CPENT) repository — a comprehensive resource hub designed for cybersecurity professionals, ethical hackers, and penetration testers preparing for the CPENT certification. This repository provides a structured and practical approach to mastering advanced penetration testing concepts through  hands-on labs, scenario-based challenges, and curated references aligned with the official CPENT exam blueprint.
 
 The CPENT certification is an advanced-level credential that validates a professional’s ability to perform complex penetration tests in enterprise environments. It emphasizes real-world, hands-on experience across a diverse range of systems — from traditional IT networks to IoT, OT, cloud, and hybrid infrastructures. Unlike multiple-choice exams, the CPENT exam is entirely scenario-driven, conducted in a live cyber range environment where candidates must exploit, pivot, and defend within a 24-hour assessment period.
 
